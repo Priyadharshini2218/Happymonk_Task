@@ -1,2 +1,2 @@
 # Happymonk_Task
-Each tasks with their code and description are attached below.
+Each tasks with their code and descriptions are attached below.
